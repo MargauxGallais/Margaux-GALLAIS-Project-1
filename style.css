@@ -1,0 +1,40 @@
+head,body
+{
+
+	margin:40px auto;
+	max-width:800px;
+	line-height:1.6;
+	font-size:17px;
+	color:purple;
+	padding:010px;
+	line-height:1.2
+
+}
+
+*
+{font-family: Open Sans,Arial;
+background-color: black;
+text-align: justify;}
+
+.mfw
+{color:pink;}
+
+.colored 
+{color: rgb(235, 207, 71)}
+
+.small
+{font-size:10px}
+
+.sb
+{color:#829fdb}
+
+.blue
+{color:#004aad}
+
+img {max-width: 40%;}
+
+.foufoufou
+{color:#444} 
+
+.foufivfoufivfoufiv
+{color:#454545}
